@@ -8,7 +8,7 @@
 
 | Critério | Nota |
 |---|---|
-| ✅ Nota Geral | **8.7 / 10** |
+| ✅ Nota Geral | **9.6 / 10** |
 | ⭐ Estrelas | ★★★★½ |
 | 🛡️ Confiabilidade | Alta |
 | 💰 Custo-benefício | Excelente |
